@@ -11,7 +11,7 @@
 - <b>SwiftUI</b>
   - [Landmarks (Apple SwiftUI example app)](https://github.com/pbellot77/Landmarks)
   - [WeSplit (HackingWithSwift)](https://github.com/pbellot77/WeSplit-HWS-)
-  - [Converter (HackingWithSwift](https://github.com/pbellot77/converter)
+  - [Converter (HackingWithSwift)](https://github.com/pbellot77/converter)
 - <b>CoreML</b>
   - [TeslaTradeIn (Example)](https://github.com/pbellot77/TeslaTradeIn)
 - <b>Web development</b>
