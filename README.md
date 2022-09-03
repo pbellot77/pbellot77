@@ -1,4 +1,4 @@
-<h1>Hi, I'm Patrick! <br/><a href="https://github.com/pbellot77">Frontend && iOS Developer </a><a href="https://www.linkedin.com/in/patrickbellot/">with and eye for UI/UX Design</a>, <a href="https://www.youtube.com/c/pitbosspat"></a></h1>
+<h1>Hi, I'm Patrick! <br/><a href="https://github.com/pbellot77">Frontend && iOS Developer </a><a href="https://www.linkedin.com/in/patrickbellot/">with and eye for UI/UX Design</a><a href="https://www.youtube.com/c/pitbosspat"></a></h1>
 
 <h2>👨‍💻 iOS Development Projects:</h2>
 
